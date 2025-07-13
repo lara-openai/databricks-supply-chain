@@ -111,5 +111,4 @@ The solution consists of multiple Databricks notebooks:
 
 - This project is based on Databricks' supply chain optimization solution accelerator available at: https://github.com/databricks-industry-solutions/supply-chain-optimization. 
 - I augmented this initial accelerator with functions to make it agentic and synthetic data for the vector index. 
-- Thanks to Puneet Jain for modularizing the notebooks! 
-- For more information about this solution accelerator, visit https://www.databricks.com/solutions/accelerators/supply-chain-distribution-optimization.
+- Thanks to Puneet Jain for modularizing the notebooks. For more information about this solution accelerator, visit https://www.databricks.com/solutions/accelerators/supply-chain-distribution-optimization.
