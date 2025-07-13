@@ -57,6 +57,7 @@ The solution consists of multiple Databricks notebooks:
 1. **`01_Introduction_And_Setup.py`**: 
 - Project overview and data setup. 
 - Make sure to run it first and to then run each notebook sequentially.
+- Set your OpenAI API key as a Databricks secret 
 2. **`02_Fine_Grained_Demand_Forecasting.py`**: 
 - Time series forecasting generating one-week-ahead SKU demand for every wholesaler and distribution center with a Holt-Winters seasonal model. 
 - The output is a table `product_demand_forecasted` with aggregate forecasts at the distribution center level 
